@@ -45,8 +45,8 @@
   <a href="https://medium.com/@watcharin.st11">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://www.facebook.com/dukecyber/">
-      <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
 
@@ -74,6 +74,24 @@
 </p>
 
 ## 🏆 My Certificates
+
+<div id="cert" align="left">
+  <a href="#">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14614079" alt="GCP-SAA Badge" width="120"/>
+  </a>
+  <a href="#">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74319321" alt="GCP-DevOps Badge" width="120"/>
+  </a>
+  <a href="#">
+      <img src="https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" alt="Cisco R&S Badge" style="background-color:white;"/>
+  </a>
+  <a href="#">
+      <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge"/>
+  </a>
+  <a href="#">
+      <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS SAA Badge"/>
+  </a>
+</div>
 
 1. AWS
    1. [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bb67ef15-3a35-4c7f-9fd2-30bfbe8f8756)
