@@ -36,7 +36,7 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/StartloJ?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+## 🙋‍♂️ Connect with me
 
 <p align="left">
   <a href="https://dev.to/startpher">
@@ -69,7 +69,6 @@
   </tbody>
 </table>
 
-
 <p align="left">
   <a href="https://github.com/StartloJ?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
@@ -84,7 +83,7 @@
    2. [Professional Cloud DevOps Engineers](https://google.accredible.com/a4f2fdb6-eb1a-467a-9658-e6ee7c59f35b)
    3. [Developing a Google SRE Culture](https://www.cloudskillsboost.google/public_profiles/14a4f161-9bc9-4428-9ee5-5330221c2767/badges/3711861?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 <table>
     <tbody>
@@ -186,7 +185,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="StartloJ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StartloJ&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
-<details> 
+<details>
   <summary>💻 Most used languages</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="StartloJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StartloJ&langs_count=10&layout=compact#" /></a>
