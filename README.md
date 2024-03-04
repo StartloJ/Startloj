@@ -91,6 +91,9 @@
   <a href="#">
       <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS SAA Badge"/>
   </a>
+  <a href="#">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure AZ-104 Badge" width="120"/>
+  </a>
 </div>
 
 1. AWS
@@ -100,6 +103,8 @@
    1. [Google Cloud Certified - Professional Cloud Architect](https://www.credential.net/202c2998-3523-4e05-b40e-b9b45e60d609?_ga=2.52891176.1002868599.1605628041-1405035967.1605628041)
    2. [Professional Cloud DevOps Engineers](https://google.accredible.com/a4f2fdb6-eb1a-467a-9658-e6ee7c59f35b)
    3. [Developing a Google SRE Culture](https://www.cloudskillsboost.google/public_profiles/14a4f161-9bc9-4428-9ee5-5330221c2767/badges/3711861?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+3. Azure
+   1. [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/WatcharinYangNgam-6247/95622E67918DB819?sharingId=AD05C45BD15BA14F)
 
 ## 👨‍💻 Languages and Tools
 
