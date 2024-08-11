@@ -94,6 +94,9 @@
   <a href="#">
       <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure AZ-104 Badge" width="120"/>
   </a>
+  <a href="#">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Azure AZ-305 Badge" width="120"/>
+  </a>
 </div>
 
 1. AWS
@@ -105,6 +108,7 @@
    3. [Developing a Google SRE Culture](https://www.cloudskillsboost.google/public_profiles/14a4f161-9bc9-4428-9ee5-5330221c2767/badges/3711861?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 3. Azure
    1. [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/WatcharinYangNgam-6247/95622E67918DB819?sharingId=AD05C45BD15BA14F)
+   2. [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/WatcharinYangNgam-6247/BF86DC4983389B18?sharingId=AD05C45BD15BA14F)
 
 ## 👨‍💻 Languages and Tools
 
