@@ -83,9 +83,6 @@
       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74319321" alt="GCP-DevOps Badge" width="120"/>
   </a>
   <a href="#">
-      <img src="https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" alt="Cisco R&S Badge" style="background-color:white;"/>
-  </a>
-  <a href="#">
       <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA Badge"/>
   </a>
   <a href="#">
@@ -96,6 +93,9 @@
   </a>
   <a href="#">
       <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Azure AZ-305 Badge" width="120"/>
+  </a>
+  <a href="#">
+      <img src="https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" alt="Cisco R&S Badge" style="background-color:white;"/>
   </a>
 </div>
 
